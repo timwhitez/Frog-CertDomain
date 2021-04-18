@@ -31,7 +31,7 @@ func main() {
 }
 
 const usage = `Usage of certinfo
-    certinfo [options] <host>...
+    Frog-CertDomain.exe <host> <port>
 Options:
 `
 
