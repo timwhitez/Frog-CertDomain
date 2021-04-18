@@ -32,9 +32,8 @@ func main() {
 
 const usage = `Usage of certinfo
 
-    certinfo [options] <host>...
+    certinfo.exe <host> <port>
 
-Options:
 `
 
 
